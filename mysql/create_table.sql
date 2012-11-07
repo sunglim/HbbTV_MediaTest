@@ -5,7 +5,7 @@ CREATE TABLE media_dash_ts
 	media_url varchar(200),
 	description varchar(200),
 	listing_order int
-)
+);
 
 CREATE TABLE media_dash_mp4
 (
@@ -14,4 +14,4 @@ CREATE TABLE media_dash_mp4
 	media_url varchar(200),
 	description varchar(200),
 	listing_order int
-)
+);
